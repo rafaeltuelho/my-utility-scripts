@@ -23,3 +23,5 @@ gwt-tmp/
 settings.xml
 *rsa
 *_private.sh
+
+.DS_Store
