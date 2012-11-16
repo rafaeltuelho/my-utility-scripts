@@ -1,1 +1,0 @@
-Experimental RHQ plugins
